@@ -1,0 +1,163 @@
+"File Name: index.html"
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>EMC</title>
+</head>
+<body>
+    
+    <center>
+    
+        <h1>Error Makes Clever Academy 🚀</h1>
+    
+        <h5>Training | Tech news | Freshers Guide</h5>
+    
+        <p>Empowering young developers to level up their skills through corporate Training</p>
+    
+    </center>
+    
+    <hr>
+    
+    <center>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DOIVEsW778U?si=htIL7hm9sKG2d7vX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+    
+    <p>Welcome to our web development course! Are you ready to embark on an exciting journey into the world of creating websites from scratch? Are you a complete beginner to the world of web development, our course is designed just for you.
+
+        Throughout this course, you'll learn web development right from the basics, as if you're learning to walk. Our mentors and community will guide you step by step, ensuring you grasp every concept. We'll start with understanding how the internet and websites function, laying a solid foundation for your learning.
+    </p>
+
+    <p>But we won't stop there. We'll delve deep into MERN Technology, empowering you to build your own websites. Yes, you read that right - by the end of this course, you'll have the skills to create websites using the latest technology stack.
+
+        What's more? You won't just be learning theory; you'll be putting your skills to the test by working on real-time projects. In fact, you'll complete seven projects, covering every module of the course. This hands-on experience will give you a taste of what it's like to work in the industry.
+        And here's the cherry on top: after 90 days of training, we offer industry-oriented practical training for an additional month, with a stipend based on your performance. It's our way of preparing you for the real world of web development.</p>
+    
+
+    <h2>Let's divide Full Stack into 3 parts</h2>
+
+    <ul>
+        <li>Front End</li>
+        <li>Back End</li>
+        <li>Data Base</li>
+    </ul>
+
+    <h1>Technologies Used for FullStack Development</h1>
+
+    <table border="1">
+        <tr>
+            <td><h3>Front End</h3></td> <td><h3>Back End</h3></td> <td><h3>Data Base</h3></td>
+        </tr>
+        <tr>
+            <td>HTML</td> <td>Java</td> <td>Mongo DB</td>
+        </tr>
+        <tr>
+            <td>CSS</td> <td>Python</td> <td>MySQL</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td> <td>Node JS</td> <td>AWS</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <center>
+    <p>
+        <a href="register.html">Register for a course | </a> <a href="https://www.instagram.com/priyasundararaju/?hl=en">Instagram | </a> <a href="https://www.youtube.com/watch?v=DOIVEsW778U">YouTube</a>
+    </p>
+    </center>
+</body>
+</html>
+
+"File Name: register.html"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Register</title>
+</head>
+<body>
+    
+    <center>
+    
+        <h1>Error Makes Clever Academy 🚀</h1>
+    
+        <h5>Training | Tech news | Freshers Guide</h5>
+    
+        <p>Empowering young developers to level up their skills through corporate Training</p>
+    
+    </center>
+    
+    <hr>
+
+    <center>
+        <h1>Registration Form</h1>
+    </center>
+    
+
+    <center>
+    <form>
+        <table>
+           <tr> 
+            <td>Name :            </td> <td> <input type=text placeholder="Enter your name"> </td>
+           </tr>
+           
+           <tr>
+            <td>Age :             </td> <td> <input type=number placeholder="Enter your age"> </td>
+           </tr>
+           
+           <tr>
+            <td>Gender:           </td>
+            <td>
+                <input type="radio" name="Gender">Male
+                <input type="radio" name="Gender">Female
+            </td>
+           </tr>
+
+           <tr>
+            <td>Email:            </td> <td> <input type=text placeholder="Enter your email"> </td>
+           </tr>
+
+           <tr>
+            <td>Select a course:  </td>
+            <td>
+                <select>
+                    <option>FullStack Development</option>
+                    <option>Python Programming</option>
+                    <option>Java</option>
+                    <option>C++</option>
+                </select>
+            </td>
+           </tr>
+
+           <tr>
+            <td>Upload your Resume: </td>
+            <td>
+                <input type="file" >
+            </td>
+           </tr>
+
+           <tr>
+            <td>
+                <input type="Reset">
+            </td>
+            <td>
+                <input type="Submit">
+            </td>
+           </tr>
+        </table>
+    </form>
+    </center>
+
+
+    <hr>
+
+    <center>
+        <p>
+            <a href="index.html">Home | </a> <a href="https://www.instagram.com/priyasundararaju/?hl=en">Instagram | </a> <a href="https://www.youtube.com/watch?v=DOIVEsW778U">YouTube</a>
+        </p>
+        </center>
+    
+</body>
+</html>
